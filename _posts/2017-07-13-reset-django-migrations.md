@@ -2,7 +2,7 @@
 layout: blog
 title: Resetting Django Migrations  
 tags: [django]  
-summary: Here is a summary of the post
+summary: How to effectively reset Django Migrations
 image: /images/blog/blogging-again.png
 ---
 

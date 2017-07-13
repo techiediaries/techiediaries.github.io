@@ -36,7 +36,7 @@
 		<div id='content'>
 			<div id='posts'>
 				<ul>
-					{% for post in site.categories.blog %}
+					{% for post in site.posts %}
 						<li class='post'>
 							{% if post.image %}
 								<a href='{{post.url}}'><img class='post-image' src="{{post.image}}" /></a>
@@ -54,7 +54,7 @@
 			<div style='clear:both'></div>
 		</div>
 		<div id='footer'>
-			{{site.full_name}} - {{site.copyright_year}}
+			{{site.blog_title}} - {{site.copyright_year}}
 		</div>
 	</div>
 	{% include googleana.html %}
