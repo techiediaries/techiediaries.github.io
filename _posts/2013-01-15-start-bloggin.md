@@ -1,8 +1,7 @@
 ---
 layout: blog
-title: Here is the title of the post
-category: blog
-tags: [tags for the post, is here]  
+title: Resetting Django Migrations  
+tags: [django]  
 summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
 ---
