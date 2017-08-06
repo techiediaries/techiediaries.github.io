@@ -46,12 +46,7 @@ limit: 25
 
       {% endif %}
     </content>
-    <excerpt>
-      {{ post.excerpt }}
-    </excerpt>
-    <image>
-      {{base}}/{{ post.image }}
-    </image>
+
 
   </entry>
   {% endfor %}
