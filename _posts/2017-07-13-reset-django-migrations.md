@@ -139,7 +139,7 @@ If you run migrate without --fake or --fake-initial you are going to get this er
 
     django.db.utils.OperationalError: (1050, "Table TABLE_NAME already exists") 
 
-So make sure to add the --fake-inital command switch .
+So make sure to add the --fake-initial command switch .
 
 Adding --fake switch marks migrations as run without actually running them .       
 
@@ -157,8 +157,8 @@ You should get a message like this
 Otherwise apply the un-applied migrations first .
 
 That's all I sincerely hope this is working for you as many developers are still finding problems reseting 
-their database migrations especailly if they can't drop the databese But just make sure to follow the steps 
-above and drop a comment if you have any problem .
+their database migrations especially if they can't drop the database But just make sure to follow the steps 
+above and drop a comment if you have any problems .
 
 Thanks for reading !
 
