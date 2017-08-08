@@ -1,9 +1,10 @@
 ---
+title: Resetting Django Migrations
 layout: blog
-title: Resetting Django Migrations  
-tags: [django]  
+tags:
+- django
 summary: Here is a summary of the post
-image: /images/blog/blogging-again.png
+image: "/images/blog/blogging-again.png"
 ---
 
 This is a template with masonry to get the theme
