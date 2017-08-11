@@ -1,5 +1,5 @@
 ---
-title: Techiediaries.Github.Io
+title: Home of tutorials
 timezone: UTC
 collections:
   posts:
@@ -9,17 +9,17 @@ collections:
     title: Uploads
     output: true
 permalink: "/:categories/:title.html"
-url: https://techiediaries.github.io
-full_name: Ahmed Bouchefra
-first_name: Ahmed
+url: https://blog.buzzlor.com
+full_name: Abbes
+first_name: Abbes
 last_name: ''
-blog_title: Techiediaries
+blog_title: Buzzlor   
 author_img_name_path: "/images/users/user.jpg"
-disqus_shortname: techiediaries
+disqus_shortname: buzzlor
 copyright_year: '2017'
 google_analytics_code: ''
 aboutme: I'm a developer and web entrepreneur
-twitter: techiediaries
-github: techiediaries
-facebook: ahmed.bouchefra
+twitter: buzzlor
+github: buzzlor
+facebook: buzzlor
 linkined_url: ''
