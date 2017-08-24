@@ -1,9 +1,11 @@
 ---
+title: Resetting Django Migrations
+date: 2017-08-06 00:00:00 Z
+tags:
+- django
 layout: blog
-title: Resetting Django Migrations  
-tags: [django]  
 summary: How to effectively reset Django Migrations
-image: /images/blog/blogging-again.png
+image: "/images/blog/blogging-again.png"
 ---
 
 Sometimes you'll need to reset your Django migrations or simply make a clean up .This process can be performed 
