@@ -1,5 +1,5 @@
 ---
-title: Home of Django Tutorials
+title: Modern Web Tutorials
 timezone: UTC
 collections:
   posts:
@@ -10,16 +10,16 @@ collections:
     output: true
 permalink: "/:categories/:title.html"
 url: https://blog.buzzlor.com
-full_name: Abbes
-first_name: Abbes
+full_name: Ahmed Bouchefra
+first_name: Ahmed
 last_name: ''
-blog_title: Home of Django Tutorials
+blog_title: Home of Modern Web Tutorials
 author_img_name_path: "/images/users/user.jpg"
-disqus_shortname: buzzlor
-copyright_year: '2017'
+disqus_shortname: techiediaries
+copyright_year: '2018'
 google_analytics_code: ''
-aboutme: I'm a developer and web entrepreneur
-twitter: buzzlor
-github: buzzlor
-facebook: buzzlor
+aboutme: A web developer, technical author and consultant.
+twitter: ahmedbouchefra
+github: techiediaries
+facebook: techiediaries
 linkined_url: ''
